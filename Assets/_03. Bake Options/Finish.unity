@@ -110,9 +110,9 @@ NavMeshSettings:
     agentHeight: 1.74
     agentSlope: 25.1
     agentClimb: 0.63
-    ledgeDropHeight: 23.27
-    maxJumpAcrossDistance: 35.25
-    minRegionArea: 0.02
+    ledgeDropHeight: 4
+    maxJumpAcrossDistance: 4
+    minRegionArea: 0
     manualCellSize: 0
     cellSize: 0.24000001
     manualTileSize: 0
@@ -461,7 +461,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh27834
+  m_Name: pb_Mesh36620
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -827,7 +827,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 8
+  m_StaticEditorFlags: 40
   m_IsActive: 1
 --- !u!64 &1765481166
 MeshCollider:
