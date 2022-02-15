@@ -390,8 +390,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 543676495}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: -0.51052755, y: -0.001692501, z: 0.000758774, w: -0.8598594}
+  m_LocalPosition: {x: -0.37810028, y: 28.500317, z: -17.471302}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -502,7 +502,6 @@ GameObject:
   - component: {fileID: 2071196581}
   - component: {fileID: 2071196580}
   - component: {fileID: 2071196579}
-  - component: {fileID: 2071196578}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -510,20 +509,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &2071196578
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2071196577}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8d3133fbcc133024e9f0a64a1e1093c9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  goal: {x: 5, y: 0, z: 4}
-  speed: 2
 --- !u!136 &2071196579
 CapsuleCollider:
   m_ObjectHideFlags: 0
