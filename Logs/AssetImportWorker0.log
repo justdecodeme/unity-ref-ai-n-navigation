@@ -780,3 +780,211 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 128.149013 seconds.
+  path: Assets/04. Baking/_Finish.unity
+  artifactKey: Guid(763f05092fa40d940b0c8ec95a37dac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/04. Baking/_Finish.unity using Guid(763f05092fa40d940b0c8ec95a37dac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ba95d3e9bb5c20fa09849cceffc7a8f') in 0.019460 seconds 
+  Import took 0.027183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.310311 seconds.
+  path: Assets/04. Baking/_Begin.unity
+  artifactKey: Guid(b05250c5ae514ad4da5426abb2827dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/04. Baking/_Begin.unity using Guid(b05250c5ae514ad4da5426abb2827dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db8c785c87ed1ed81078b92ffafb0ad') in 0.005813 seconds 
+  Import took 0.012113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.837081 seconds.
+  path: Assets/04. Baking/_Finish.unity
+  artifactKey: Guid(763f05092fa40d940b0c8ec95a37dac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/04. Baking/_Finish.unity using Guid(763f05092fa40d940b0c8ec95a37dac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa414bdff9233d512cd53432403b049f') in 0.005279 seconds 
+  Import took 0.010976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.961820 seconds.
+  path: Assets/04. Baking/_Begin.unity
+  artifactKey: Guid(b05250c5ae514ad4da5426abb2827dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/04. Baking/_Begin.unity using Guid(b05250c5ae514ad4da5426abb2827dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fe93c10d37bd9d779591a7d09abef76') in 0.004582 seconds 
+  Import took 0.011957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 374.052617 seconds.
+  path: Assets/05. Navmesh Obstacle/_Finish.unity
+  artifactKey: Guid(0c4c1d325b68c5f43b432727a15ead8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05. Navmesh Obstacle/_Finish.unity using Guid(0c4c1d325b68c5f43b432727a15ead8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52480deb25ef5bb203d219f7fc61c540') in 0.003639 seconds 
+  Import took 0.008740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.913751 seconds.
+  path: Assets/05. Navmesh Obstacle/Start.unity
+  artifactKey: Guid(98a46aac03b06834c9b2022304745b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05. Navmesh Obstacle/Start.unity using Guid(98a46aac03b06834c9b2022304745b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b119f79b5a4eb00dfb32a04089782a91') in 0.018750 seconds 
+  Import took 0.025796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.799946 seconds.
+  path: Assets/05. Navmesh Obstacle/_Begin.unity
+  artifactKey: Guid(98a46aac03b06834c9b2022304745b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05. Navmesh Obstacle/_Begin.unity using Guid(98a46aac03b06834c9b2022304745b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46a70302609c7c8d52400b80a127b575') in 0.004773 seconds 
+  Import took 0.011288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.106916 seconds.
+  path: Assets/05. Navmesh Obstacle/_Finish.unity
+  artifactKey: Guid(0c4c1d325b68c5f43b432727a15ead8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05. Navmesh Obstacle/_Finish.unity using Guid(0c4c1d325b68c5f43b432727a15ead8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5507f9b772268796dbff18e2e8b8eb03') in 0.005332 seconds 
+  Import took 0.012940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 99.045071 seconds.
+  path: Assets/05. Navmesh Obstacle/_Begin.unity
+  artifactKey: Guid(98a46aac03b06834c9b2022304745b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05. Navmesh Obstacle/_Begin.unity using Guid(98a46aac03b06834c9b2022304745b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '352d59ed0cb1ced9b4d52b38ec33c8aa') in 0.004559 seconds 
+  Import took 0.009989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.427366 seconds.
+  path: Assets/05. Navmesh Obstacle/_Finish.unity
+  artifactKey: Guid(0c4c1d325b68c5f43b432727a15ead8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05. Navmesh Obstacle/_Finish.unity using Guid(0c4c1d325b68c5f43b432727a15ead8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '291467fb8c6d2e1587a80ecd1554c668') in 0.005160 seconds 
+  Import took 0.010407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 242.469950 seconds.
+  path: Assets/06. Navmesh Links/Finish.unity
+  artifactKey: Guid(b899f10cead824a478c7a505517fdfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/06. Navmesh Links/Finish.unity using Guid(b899f10cead824a478c7a505517fdfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4b9ff62a6fa509a87ddc31e24125eb') in 0.006256 seconds 
+  Import took 0.012302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.531149 seconds.
+  path: Assets/06. Navmesh Links/_Finish.unity
+  artifactKey: Guid(b899f10cead824a478c7a505517fdfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/06. Navmesh Links/_Finish.unity using Guid(b899f10cead824a478c7a505517fdfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ec642b1b1c3f6c670d2c36e2d7d1411') in 0.005027 seconds 
+  Import took 0.010793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.445740 seconds.
+  path: Assets/06. Navmesh Links/_Finish.unity
+  artifactKey: Guid(b899f10cead824a478c7a505517fdfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/06. Navmesh Links/_Finish.unity using Guid(b899f10cead824a478c7a505517fdfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65e4d06fea214bf5eeaaba349e382d3d') in 0.005762 seconds 
+  Import took 0.010686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.974485 seconds.
+  path: Assets/06. Navmesh Links/_Begin.unity
+  artifactKey: Guid(e5e542d9eb69b9045b168daab9d219c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/06. Navmesh Links/_Begin.unity using Guid(e5e542d9eb69b9045b168daab9d219c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c519ee2fb2c5844dfefeaea271ae08f4') in 0.005182 seconds 
+  Import took 0.011255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.017371 seconds.
+  path: Assets/05. Navmesh Obstacle/_Begin.unity
+  artifactKey: Guid(98a46aac03b06834c9b2022304745b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05. Navmesh Obstacle/_Begin.unity using Guid(98a46aac03b06834c9b2022304745b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9196651c5a4a40ffa1464614999c2cc') in 0.006296 seconds 
+  Import took 0.011312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.157373 seconds.
+  path: Assets/01. MoveSimple/_Begin.unity
+  artifactKey: Guid(d37cb8dff82027745bb29dac1996b98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01. MoveSimple/_Begin.unity using Guid(d37cb8dff82027745bb29dac1996b98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2107b8aa6cf7b44b49624af33a5ca56d') in 0.005609 seconds 
+  Import took 0.011415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.668340 seconds.
+  path: Assets/01. MoveSimple/_Finish.unity
+  artifactKey: Guid(2697829ae22525f488da8bbdc9ea5963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01. MoveSimple/_Finish.unity using Guid(2697829ae22525f488da8bbdc9ea5963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08164f9301a54bbbf8fe6918c9c986ea') in 0.005155 seconds 
+  Import took 0.011676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.821031 seconds.
+  path: Assets/02. MoveToGoal/_Begin.unity
+  artifactKey: Guid(0ae9130ae458d1b489107af8728df60e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02. MoveToGoal/_Begin.unity using Guid(0ae9130ae458d1b489107af8728df60e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c62d0b1625eaae3a11d3be20e00d7aeb') in 0.003273 seconds 
+  Import took 0.010389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.517852 seconds.
+  path: Assets/03. FollowWaypoints/_Begin.unity
+  artifactKey: Guid(d23891510337ea340a7e266be2b499d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/03. FollowWaypoints/_Begin.unity using Guid(d23891510337ea340a7e266be2b499d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c40bb3863a068c7f00544a6ff3c23e8e') in 0.003899 seconds 
+  Import took 0.011039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.528144 seconds.
+  path: Assets/06. OffMeshLinks + Other Bake Options/_Begin.unity
+  artifactKey: Guid(e5e542d9eb69b9045b168daab9d219c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/06. OffMeshLinks + Other Bake Options/_Begin.unity using Guid(e5e542d9eb69b9045b168daab9d219c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c190aff9b30fad229748e928edf5e5f9') in 0.003954 seconds 
+  Import took 0.008617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 452.139601 seconds.
+  path: Assets/06. OffMeshLinks + Other Bake Options/_Finish.unity
+  artifactKey: Guid(b899f10cead824a478c7a505517fdfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/06. OffMeshLinks + Other Bake Options/_Finish.unity using Guid(b899f10cead824a478c7a505517fdfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0292fc1fc1fa7dffe0b873fc0ef9ba5') in 0.004322 seconds 
+  Import took 0.010919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.260412 seconds.
+  path: Assets/06. OffMeshLinks + Other Bake Options/_Finish.unity
+  artifactKey: Guid(b899f10cead824a478c7a505517fdfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/06. OffMeshLinks + Other Bake Options/_Finish.unity using Guid(b899f10cead824a478c7a505517fdfb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c697667dcf22f456466515bff61e2b8f') in 0.003080 seconds 
+  Import took 0.008681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.608751 seconds.
+  path: Assets/06. OffMeshLinks + Other Bake Options/_Finish 1.unity
+  artifactKey: Guid(e95f3441faab28f4a9c065b0da2f58cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/06. OffMeshLinks + Other Bake Options/_Finish 1.unity using Guid(e95f3441faab28f4a9c065b0da2f58cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f00578204abe8ecdf3192b47d073523') in 0.004660 seconds 
+  Import took 0.009846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.764927 seconds.
+  path: Assets/06. OffMeshLinks + Other Bake Options/_Finish 1.unity
+  artifactKey: Guid(82d55c4b77d3ba5488225708460cfb27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/06. OffMeshLinks + Other Bake Options/_Finish 1.unity using Guid(82d55c4b77d3ba5488225708460cfb27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63592420703aae919ce4017a022807d0') in 0.003065 seconds 
+  Import took 0.008714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.859454 seconds.
+  path: Assets/06. OffMeshLinks + Other Bake Options/_Begin.unity
+  artifactKey: Guid(82d55c4b77d3ba5488225708460cfb27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/06. OffMeshLinks + Other Bake Options/_Begin.unity using Guid(82d55c4b77d3ba5488225708460cfb27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1fc016b128767d8da3edd967a7d632') in 0.009305 seconds 
+  Import took 0.015305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.098970 seconds.
+  path: Assets/06. OffMeshLinks + Other Bake Options/_Begin.unity
+  artifactKey: Guid(82d55c4b77d3ba5488225708460cfb27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/06. OffMeshLinks + Other Bake Options/_Begin.unity using Guid(82d55c4b77d3ba5488225708460cfb27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d60f74462720a674e751407c3bedec2') in 0.002468 seconds 
+  Import took 0.007841 seconds .
+
