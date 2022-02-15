@@ -2354,3 +2354,4 @@ Received Import Request.
 Start importing Assets/07. Navmesh Manual Links/_Finish/NavMesh.asset using Guid(69b77c734a5c1e54eb173870f4af1379) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da752c294218ebf70fff147ac8f7de49') in 0.002502 seconds 
   Import took 0.006982 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
